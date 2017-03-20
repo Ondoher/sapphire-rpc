@@ -1,0 +1,31 @@
+{
+  "name": "sapphire-rpc",
+  "version": "0.0.1",
+  "description": "Redis based rpc",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondoher/sapphire-rpc.git"
+  },
+  "keywords": [
+    "sapphire",
+    "rpc",
+    "redis"
+  ],
+  "author": "Glenn Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ondoher/sapphire-rpc/issues"
+  },
+  "homepage": "https://github.com/Ondoher/sapphire-rpc#readme",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "btoa": "^1.1.2",
+    "q": "^1.4.1",
+    "redis": "^2.7.1",
+    "uuid": "^3.0.1"
+  }
+}
