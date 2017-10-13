@@ -1,6 +1,6 @@
 {
   "name": "sapphire-rpc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Redis based rpc",
   "main": "lib/index.js",
   "scripts": {
